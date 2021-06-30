@@ -1,4 +1,4 @@
-# :books: A Beamon's guide to cook
+# :men_cook: A Beamon's guide to cook
 
 Current recipies:
 
