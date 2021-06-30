@@ -1,4 +1,4 @@
-# :men_cook: A Beamon's guide to cook
+# 🧑‍🍳 A Beamon's guide to cook
 
 Current recipies:
 
