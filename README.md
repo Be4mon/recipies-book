@@ -2,5 +2,6 @@
 
 Current recipies:
 
-- Strogonoff (by The Professor)
+- Strogonoff (by Otávio Reis)
 
+- Pavê (by Otávio Reis)
